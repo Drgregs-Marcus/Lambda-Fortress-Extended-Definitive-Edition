@@ -9505,16 +9505,6 @@
 			"drop_sound"		"ui/item_heavy_gun_drop.wav"
 			"attributes"
 			{
-				"damage penalty"
-				{
-					"attribute_class"	"mult_dmg"
-					"value"	"0"
-				}
-				"crit mod disabled"
-				{
-					"attribute_class"	"mult_crit_chance"
-					"value"	"0"
-				}
 				"no self blast dmg"
 				{
 					"attribute_class"	"no_self_blast_dmg"
@@ -9529,6 +9519,16 @@
 				{
 					"attribute_class"	"override_projectile_type"
 					"value"				"14"
+				}
+				"damage penalty"
+				{
+					"attribute_class"	"mult_dmg"
+					"value"	"0"
+				}
+				"crit mod disabled"
+				{
+					"attribute_class"	"mult_crit_chance"
+					"value"	"0"
 				}
 				"max pipebombs decreased"
 				{
@@ -14863,6 +14863,11 @@
 					"attribute_class"	"mult_dmgtaken_from_explosions"
 					"value"			"0.85"
 				}
+				"full charge turn control"
+				{
+					"attribute_class"	"charge_turn_control"
+					"value"			"50"
+				}
 				"lose demo charge on damage when charging"
 				{
 					"attribute_class"	"lose_demo_charge_on_damage_when_charging"
@@ -14872,11 +14877,6 @@
 				{
 					"attribute_class"	"allowed_in_medieval_mode"
 					"value"	"1"
-				}
-				"full charge turn control"
-				{
-					"attribute_class"	"charge_turn_control"
-					"value"			"50"
 				}
 				"kill refills meter"
 				{
