@@ -7,25 +7,6 @@
 3. Extract the pack to the custom folder
 4. Enjoy
  
- 
- 
-Github desktop install instructions:
-1. Download Github desktop: https://desktop.github.com/
-2. Create custom folder in your tf_coop_extended folder (ignore this step if you already have a custom folder)
-3. Add > Clone repository > URL > Paste this in text box:(https://github.com/Drgregs-Marcus/Lambda-Fortress-Extended-Improved-Edition)
-4. Change Local Path to: C:\Program Files (x86)\Steam\steamapps\sourcemods\tf_coop_extended\custom (or whatever your TF_COOP_EXTENDED Custom folder Directory is)
-5. Clone
-6. Now you can easily update the pack by doing: Fetch origin > Pull origin
-7. Enjoy
- 
-Note: I know the second one might be a lot harder, but it does save time and disk space in the future.
- 
-Uninstall instructions:
- 
-Step 1. Locate your Custom folder that is inside TF_COOP_EXTENDED
-
-Step 2. Remove the "Lambda-Fortress-Extended-Improved-Edition" folder
- 
 
 
 
@@ -37,7 +18,7 @@ Added leaderboard class icons for every special class
 
 The Civilian now uses the TF2c model ( Issue: Reference pose while holding Gravity Gun and Grappling Gun. )
 
-The Umbrella uses the TF2c model and weapon icon ( Issue: Umbrella will use incorrect team color in third-person )
+The Umbrella uses the TF2c model and weapon icon ( Issue: Umbrella world model will use incorrect team color when on BLU )
 
 ### Combine Soldier
 
@@ -112,8 +93,6 @@ TFC Medikit is crashing the game on use ( Reason: Source code modification / Lar
 
 # Warnings
 ### INCOMPATIBLE WITH ANY CUSTOM WEAPON PACKAGE!
-
-### UNTESTED ON SERVERS THAT DO NOT HAVE THIS MOD INSTALLED!
 
 ### THIS IS NOT AFFILIATED WITH COAXION!
 
