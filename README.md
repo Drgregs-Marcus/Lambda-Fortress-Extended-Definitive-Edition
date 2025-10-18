@@ -78,7 +78,7 @@ Cowmangler now uses a different reload animation
 ## Fixes
 
 
-Phlog's "Invulnerable while 'Mmmph' taunting." text being cut off
+Fixed Phlog's "Invulnerable while 'Mmmph' taunting." text being cut off
 
 Fixed sapper's description
 
@@ -86,9 +86,11 @@ Fixed an issue where the Cowmangler would have glowing white parts ( Issue: The 
 
 Fixed an issue where weapons would have misordered attributes
 
-## Coming Soon
+## Removals
 
-Removed useless weapon data
+Removed various useless weapon data from items_game.txt
+
+## Coming Soon
 
 loadout menu displays commands to enable special classes, commands to use special classes, and each special class name.
 
