@@ -69,6 +69,8 @@ Fixed an issue with the "leap meter" where there were no proper translations
 
 Weapons no longer have "The" at the start of their name
 
+Weapons now display certain hidden attributes
+
 Gravity gun now uses the HL2 texture
 
 Cowmangler now uses a different reload animation
@@ -82,13 +84,11 @@ Fixed sapper's description
 
 Fixed an issue where the Cowmangler would have glowing white parts ( Issue: The Cowmangler is no longer team colored )
 
-## Coming Soon
-
 Fixed an issue where weapons would have misordered attributes
 
-Removed useless weapon data
+## Coming Soon
 
-Weapons displaying certain hidden attributes
+Removed useless weapon data
 
 loadout menu displays commands to enable special classes, commands to use special classes, and each special class name.
 
